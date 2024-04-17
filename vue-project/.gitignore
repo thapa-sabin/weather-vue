@@ -28,3 +28,4 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+/home/tckleme-dev/data/weather-vue/vue-project/src/views/HomeView.vue
